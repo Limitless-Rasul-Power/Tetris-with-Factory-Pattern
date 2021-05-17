@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Tetris with Factory Pattern\Tetris with Factory Pattern\bin\Debug\Tetris with Factory Pattern.exe.config
+C:\Users\Admin\source\repos\Tetris with Factory Pattern\Tetris with Factory Pattern\bin\Debug\Tetris with Factory Pattern.exe
+C:\Users\Admin\source\repos\Tetris with Factory Pattern\Tetris with Factory Pattern\bin\Debug\Tetris with Factory Pattern.pdb
+C:\Users\Admin\source\repos\Tetris with Factory Pattern\Tetris with Factory Pattern\obj\Debug\Tetris with Factory Pattern.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tetris with Factory Pattern\Tetris with Factory Pattern\obj\Debug\Tetris with Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tetris with Factory Pattern\Tetris with Factory Pattern\obj\Debug\Tetris with Factory Pattern.exe
+C:\Users\Admin\source\repos\Tetris with Factory Pattern\Tetris with Factory Pattern\obj\Debug\Tetris with Factory Pattern.pdb
